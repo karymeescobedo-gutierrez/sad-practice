@@ -1,2 +1,3 @@
 # sad-practice
-"Learning the toolchain in Systems Analysis"
+Learning the toolchain in Systems Analysis
+Understanding version history
